@@ -1,5 +1,5 @@
              Scrip saldo dana 
-$ git clone https://github.com/dainaste/Reza
+$ git clone https://github.com/dainaste/reza
 $ php bot.php
 $ Pasword yang kalain buat 
 $ Input Invite Code:MIY6A3
