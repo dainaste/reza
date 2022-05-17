@@ -1,4 +1,5 @@
              Scrip saldo dana 
+masukin no Ipone 625747483838 tidak di masukin 62 langsung saja 57 dan seterusnya
 $ git clone https://github.com/dainaste/reza
 $ php bot.php
 $ Pasword yang kalain buat 
