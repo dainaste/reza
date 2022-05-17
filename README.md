@@ -1,3 +1,4 @@
+             Scrip saldo dana 
 $ git clone https://github.com/dainaste/Reza
 $ php bot.php
 $ Pasword yang kalain buat 
